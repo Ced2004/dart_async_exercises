@@ -1,0 +1,13 @@
+=== NTC ADVANCED PUBLIC TRANSIT SYSTEM ===
+
+--- FLEET FARE COMPUTATION & POLYMORPHISM (8 km trip) ---
+ID: TJ-101 | Route: Quiapo - Espana | Capacity: 18
+   Calculated Fare: ₱20.00
+   [MAINTENANCE]: Changing engine oil and checking brakes for Traditional Jeep TJ-101.
+[GPS TRACKER]: Vehicle TJ-101 is currently live on route tracking system.
+----------------------------------
+ID: EJ-202 | Route: Cubao - Divisoria | Capacity: 24
+   Type: Modern E-Jeepney | Airconditioned: true
+   Calculated Fare: ₱25.00
+   [MAINTENANCE]: Diagnostics check on battery cells and AC unit for E-Jeep EJ-202.
+----------------------------------
